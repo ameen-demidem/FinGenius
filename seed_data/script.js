@@ -2,7 +2,8 @@ const { MongoClient } = require('mongodb');
 const fs = require('fs');
 
 // Connection URL for the MongoDB Atlas cluster
-const url = 'mongodb+srv://mudasir:test123.@cluster0.ncuntvn.mongodb.net/?retryWrites=true&w=majority';
+// const url = 'mongodb+srv://mudasir:test123.@cluster0.ncuntvn.mongodb.net/?retryWrites=true&w=majority';
+const url = "mongodb+srv://ameen:q8yQzMDUsqJZIrlf@cluster0.nwhzrfw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 // Database name
 const dbName = 'fingenius2';

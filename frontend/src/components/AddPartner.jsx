@@ -35,6 +35,7 @@ const AddPartner = ({ partnerType }) => {
   } = partnerData;
 
   // TODO: Write your JavaScript code here
+  
 
   return (
     <div>
